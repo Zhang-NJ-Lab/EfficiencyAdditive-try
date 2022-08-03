@@ -1,0 +1,17 @@
+{'PCEandPerovskiteandAdditive': {'raw_value': '8.64', 'raw_units': '%', 'value': [8.64], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency', 'perovskite': {'Perovskite': {'specifier': 'PSCs', 'raw_value': 'FA_0.4MA_0.6PbI_3'}}}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '5.65', 'raw_units': '%', 'value': [5.65], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '10.55', 'raw_units': '%', 'value': [10.55], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '12.19', 'raw_units': '%', 'value': [12.19], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency', 'additive': {'Additive': {'specifier': 'passivate', 'raw_value': 'ethylammonium chlorine'}}}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '0.44', 'raw_units': '%', 'value': [0.44], 'units': 'Percent^(1.0)', 'specifier': 'PCE', 'additive': {'Additive': {'specifier': 'additive', 'raw_value': 'In'}}}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '10.12', 'raw_units': '%(', 'value': [10.12], 'units': 'Percent^(1.0)', 'specifier': 'PCE', 'additive': {'Additive': {'specifier': 'additive', 'raw_value': 'HI'}}}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '9.44', 'raw_units': '%', 'value': [9.44], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '8.87', 'raw_units': '%', 'value': [8.87], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '3.01', 'raw_units': '%', 'value': [3.01], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '4', 'raw_units': '%', 'value': [4.0], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '1.61', 'raw_units': '%', 'value': [1.61], 'units': 'Percent^(1.0)', 'specifier': 'PCE'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '16.89', 'raw_units': '%', 'value': [16.89], 'units': 'Percent^(1.0)', 'specifier': 'PCE'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '7', 'raw_units': '%', 'value': [7.0], 'units': 'Percent^(1.0)', 'specifier': 'PCE'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '73', 'raw_units': '%', 'value': [73.0], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency'}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '20.03', 'raw_units': '%', 'value': [20.03], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency', 'perovskite': {'Perovskite': {'specifier': 'PSCs', 'raw_value': 'MAPbI_3'}}}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '15.14', 'raw_units': '%', 'value': [15.14], 'units': 'Percent^(1.0)', 'specifier': 'power conversion efficiency', 'additive': {'Additive': {'specifier': 'doped', 'raw_value': 'Cl'}}, 'perovskite': {'Perovskite': {'specifier': 'perovskite', 'raw_value': 'CH_3NH_3PbI_3'}}}}
+{'PCEandPerovskiteandAdditive': {'raw_value': '18', 'raw_units': '%', 'value': [18.0], 'units': 'Percent^(1.0)', 'specifier': 'PCE'}}
